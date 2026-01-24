@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System.Reflection;
 using WebApplicationAPP.Models;
 
 namespace WebApplicationAPP.Controllers
@@ -8,13 +9,18 @@ namespace WebApplicationAPP.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            return View();
+            return View(new CalculadoraViewModel());
         }
 
         [HttpPost]
         public IActionResult Index(CalculadoraViewModel modelo)
         {
-
+            
+            if (modelo.operacion == "suma")
+            {
+                modelo.resultado = modelo.valor1 + modelo.valor2;
+            }
+           
             return View(modelo);
         }
     }
