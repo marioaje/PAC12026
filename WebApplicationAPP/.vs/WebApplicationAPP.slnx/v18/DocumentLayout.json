@@ -11,6 +11,18 @@
       "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\producto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\producto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\producto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\producto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -46,24 +58,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Producto\\Delete.cshtml",
+              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Delete.cshtml",
+              "RelativeToolTip": "WebApplicationAPP\\Views\\Producto\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T01:41:14.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Producto\\Edit.cshtml",
+              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Edit.cshtml",
+              "RelativeToolTip": "WebApplicationAPP\\Views\\Producto\\Edit.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T01:25:11.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Producto\\Details.cshtml",
+              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Details.cshtml",
+              "RelativeToolTip": "WebApplicationAPP\\Views\\Producto\\Details.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T01:21:22.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Create.cshtml",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Producto\\Create.cshtml",
               "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Create.cshtml",
               "RelativeToolTip": "WebApplicationAPP\\Views\\Producto\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-31T00:15:11.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Shared\\_Layout.cshtml",
@@ -82,7 +133,7 @@
               "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Producto\\Index.cshtml",
               "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Index.cshtml",
               "RelativeToolTip": "WebApplicationAPP\\Views\\Producto\\Index.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAIwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-31T00:11:25.811Z",
               "EditorCaption": ""
@@ -95,14 +146,14 @@
               "RelativeDocumentMoniker": "WebApplicationAPP\\Controllers\\ProductoController.cs",
               "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Controllers\\ProductoController.cs",
               "RelativeToolTip": "WebApplicationAPP\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBkAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAwwIwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-31T00:10:51.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Producto.cs",
               "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Models\\Producto.cs",
@@ -115,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Calculadora\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Calculadora\\Index.cshtml",
@@ -128,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "CalculadoraViewModel.cs",
               "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Models\\CalculadoraViewModel.cs",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Models\\CalculadoraViewModel.cs",
@@ -140,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "CalculadoraController.cs",
               "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Controllers\\CalculadoraController.cs",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Controllers\\CalculadoraController.cs",
@@ -153,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Shared\\Error.cshtml",

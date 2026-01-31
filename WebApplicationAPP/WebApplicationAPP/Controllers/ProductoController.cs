@@ -58,5 +58,90 @@ namespace WebApplicationAPP.Controllers
 
             return RedirectToAction(nameof(Index));
         }
+
+
+
+        //Details
+        public IActionResult Details(int id)
+        {
+            var datosConsulta = productos.FirstOrDefault(p => p.Id == id);
+
+            if (datosConsulta == null)
+            {
+                return NotFound();
+            }
+
+            return View(datosConsulta);
+        }
+
+
+        public IActionResult Edit(int id)
+        {
+            var datosConsulta = productos.FirstOrDefault(p => p.Id == id);
+
+            if (datosConsulta == null)
+            {
+                return NotFound();
+            }
+
+            return View(datosConsulta);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(Producto producto)
+        {
+            var datosConsulta = productos.FirstOrDefault(p => p.Id == producto.Id);
+
+            if (datosConsulta == null)
+            {
+                return NotFound();
+            }
+
+
+            if (!ModelState.IsValid)
+            {
+                // Aquí se podría agregar la lógica para guardar el producto en una base de datos
+                //return RedirectToAction("Index");
+                return View(producto);
+            }
+
+            datosConsulta.Nombre = producto.Nombre;
+            datosConsulta.Precio = producto.Precio;
+            datosConsulta.Stock = producto.Stock;
+
+            return RedirectToAction(nameof(Index));
+        }
+
+
+
+        public IActionResult Delete(int id)
+        {
+            var datosConsulta = productos.FirstOrDefault(p => p.Id == id);
+
+            if (datosConsulta == null)
+            {
+                return NotFound();
+            }
+
+            return View(datosConsulta);
+        }
+
+
+
+        [HttpPost]
+        public IActionResult Delete(Producto producto)
+        {
+            var datosConsulta = productos.FirstOrDefault(p => p.Id == producto.Id);
+
+            if (datosConsulta == null)
+            {
+                return NotFound();
+            }
+
+            productos.Remove(datosConsulta);
+
+            return RedirectToAction(nameof(Index));
+        }
     }
+
 }

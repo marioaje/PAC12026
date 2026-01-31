@@ -1,9 +1,12 @@
 ﻿@model WebApplicationAPP.Models.Producto
 
-<h1>Crear Producto</h1>
+<h1>Editar Producto</h1>
 
 <form method="post">
     
+    <input type="hidden" asp-for="Id" name="Id" required />
+
+
     <label for="Nombre">Nombre:</label>
     <input type="text" asp-for="Nombre" name="Nombre" required />
 
@@ -13,6 +16,6 @@
     <label for="Stock">Stock:</label>
     <input type="number" asp-for="Stock" name="Stock" required />
 
-    <button type="submit" class="btn btn-primary">Crear</button>
-
+    <button type="submit" class="btn btn-primary">Actualizar</button>
+    <a asp-action="Index">Cancelar</a>
 </form>
