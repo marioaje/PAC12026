@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{848FD284-0C04-492E-95E8-08BE3E2AB0D7}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\controllers\\calculadoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{848FD284-0C04-492E-95E8-08BE3E2AB0D7}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\controllers\\calculadoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{848FD284-0C04-492E-95E8-08BE3E2AB0D7}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\calculadora\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{848FD284-0C04-492E-95E8-08BE3E2AB0D7}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\calculadora\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{848FD284-0C04-492E-95E8-08BE3E2AB0D7}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\models\\calculadoraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{848FD284-0C04-492E-95E8-08BE3E2AB0D7}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\models\\calculadoraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{848FD284-0C04-492E-95E8-08BE3E2AB0D7}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{848FD284-0C04-492E-95E8-08BE3E2AB0D7}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\calculadora\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\calculadora\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\controllers\\calculadoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\controllers\\calculadoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\models\\calculadoraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\models\\calculadoraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +46,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Producto\\Create.cshtml",
+              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Create.cshtml",
+              "RelativeToolTip": "WebApplicationAPP\\Views\\Producto\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T00:15:11.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplicationAPP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T00:12:00.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "WebApplicationAPP\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-31T00:11:25.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Controllers\\ProductoController.cs",
+              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "WebApplicationAPP\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T00:10:51.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Models\\Producto.cs",
+              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Models\\Producto.cs",
+              "RelativeToolTip": "WebApplicationAPP\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T00:08:22.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Calculadora\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Calculadora\\Index.cshtml",
               "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Calculadora\\Index.cshtml",
               "RelativeToolTip": "WebApplicationAPP\\Views\\Calculadora\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-24T01:32:22.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "CalculadoraViewModel.cs",
               "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Models\\CalculadoraViewModel.cs",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Models\\CalculadoraViewModel.cs",
@@ -51,25 +136,24 @@
               "RelativeToolTip": "WebApplicationAPP\\Models\\CalculadoraViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T01:11:11.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T01:11:11.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CalculadoraController.cs",
               "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Controllers\\CalculadoraController.cs",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Controllers\\CalculadoraController.cs",
               "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Controllers\\CalculadoraController.cs",
               "RelativeToolTip": "WebApplicationAPP\\Controllers\\CalculadoraController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAxwBEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-24T01:08:18.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Shared\\Error.cshtml",
@@ -77,8 +161,7 @@
               "RelativeToolTip": "WebApplicationAPP\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-24T00:44:59.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T00:44:59.212Z"
             }
           ]
         }
