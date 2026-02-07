@@ -1,0 +1,33 @@
+﻿@model IEnumerable<WebApplicationAPP.Models.Persona>
+
+@{
+    ViewBag.Title = "Listado Personas";
+}
+
+<h2>Listado de Personas</h2>
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Edad</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var persona in Model)
+        {
+            <tr>
+                <td>@persona.Id</td>
+                <td>@persona.Nombre</td>
+                <td>@persona.Estado</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@persona.Id">Detalles</a> |
+                    <a asp-action="Edit" asp-route-id="@persona.Id">Editar</a> |
+                    <a asp-action="Delete" asp-route-id="@persona.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
