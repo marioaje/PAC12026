@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http.HttpResults;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WebApplicationAPP.Models
 {
+    [Table("Persona")]
     public class Persona
     {
         public int Id { get; set; }

@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\repositories\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\repositories\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,84 +23,24 @@
       "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\repositories\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\repositories\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\persona\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\persona\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\repositories\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\repositories\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\persona\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\persona\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\persona\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\persona\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\bussines\\personabussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\bussines\\personabussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\producto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\producto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\producto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\producto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\calculadora\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\calculadora\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\controllers\\calculadoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\controllers\\calculadoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\models\\calculadoraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\models\\calculadoraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|d:\\github\\new folder\\pac12026\\webapplicationapp\\webapplicationapp\\views\\persona\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A57B07D1-ED2F-7B19-7249-3CB02E512D87}|WebApplicationAPP\\WebApplicationAPP.csproj|solutionrelative:webapplicationapp\\views\\persona\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,292 +50,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Persona\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Persona\\Index.cshtml",
-              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Persona\\Index.cshtml",
-              "RelativeToolTip": "WebApplicationAPP\\Views\\Persona\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-07T01:28:28.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonaController.cs",
-              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Controllers\\PersonaController.cs",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Controllers\\PersonaController.cs",
-              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Controllers\\PersonaController.cs",
-              "RelativeToolTip": "WebApplicationAPP\\Controllers\\PersonaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T01:25:21.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PersonaBussiness.cs",
-              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Bussines\\PersonaBussiness.cs",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Bussines\\PersonaBussiness.cs",
-              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Bussines\\PersonaBussiness.cs",
-              "RelativeToolTip": "WebApplicationAPP\\Bussines\\PersonaBussiness.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T01:22:49.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IPersonaRepository.cs",
-              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Repositories\\IPersonaRepository.cs",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Repositories\\IPersonaRepository.cs",
-              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Repositories\\IPersonaRepository.cs",
-              "RelativeToolTip": "WebApplicationAPP\\Repositories\\IPersonaRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T01:14:17.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PersonaRepository.cs",
-              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Repositories\\PersonaRepository.cs",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Repositories\\PersonaRepository.cs",
-              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Repositories\\PersonaRepository.cs",
-              "RelativeToolTip": "WebApplicationAPP\\Repositories\\PersonaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T01:11:47.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "WebApplicationAPP\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T01:04:55.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Program.cs",
               "RelativeDocumentMoniker": "WebApplicationAPP\\Program.cs",
               "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Program.cs",
               "RelativeToolTip": "WebApplicationAPP\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T01:03:02.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\appsettings.json",
-              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\appsettings.json",
-              "RelativeToolTip": "WebApplicationAPP\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-07T00:33:59.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Properties\\launchSettings.json",
-              "RelativeToolTip": "WebApplicationAPP\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-07T00:33:37.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Models\\Persona.cs",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Models\\Persona.cs",
-              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Models\\Persona.cs",
-              "RelativeToolTip": "WebApplicationAPP\\Models\\Persona.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T00:31:19.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Delete.cshtml",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Producto\\Delete.cshtml",
-              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Delete.cshtml",
-              "RelativeToolTip": "WebApplicationAPP\\Views\\Producto\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T01:41:14.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Edit.cshtml",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Producto\\Edit.cshtml",
-              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Edit.cshtml",
-              "RelativeToolTip": "WebApplicationAPP\\Views\\Producto\\Edit.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAADwvxMAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T01:25:11.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Details.cshtml",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Producto\\Details.cshtml",
-              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Details.cshtml",
-              "RelativeToolTip": "WebApplicationAPP\\Views\\Producto\\Details.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T01:21:22.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Producto\\Create.cshtml",
-              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Create.cshtml",
-              "RelativeToolTip": "WebApplicationAPP\\Views\\Producto\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T00:15:11.175Z",
+              "WhenOpened": "2026-02-07T03:12:28.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplicationAPP\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwCIAAAB5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T00:12:00.218Z",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplicationAPP\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA+wAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T03:12:15.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Producto\\Index.cshtml",
-              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Producto\\Index.cshtml",
-              "RelativeToolTip": "WebApplicationAPP\\Views\\Producto\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAIBJwBwAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-31T00:11:25.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Controllers\\ProductoController.cs",
-              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "WebApplicationAPP\\Controllers\\ProductoController.cs",
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Models\\Persona.cs",
+              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Models\\Persona.cs",
+              "RelativeToolTip": "WebApplicationAPP\\Models\\Persona.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T00:10:51.845Z",
+              "WhenOpened": "2026-02-07T03:10:23.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Models\\Producto.cs",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Models\\Producto.cs",
-              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Models\\Producto.cs",
-              "RelativeToolTip": "WebApplicationAPP\\Models\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Persona\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Persona\\Create.cshtml",
+              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Persona\\Create.cshtml",
+              "RelativeToolTip": "WebApplicationAPP\\Views\\Persona\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-07T03:02:42.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonaRepository.cs",
+              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Repositories\\PersonaRepository.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Repositories\\PersonaRepository.cs",
+              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Repositories\\PersonaRepository.cs",
+              "RelativeToolTip": "WebApplicationAPP\\Repositories\\PersonaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T00:08:22.519Z",
+              "WhenOpened": "2026-02-07T02:57:08.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Persona\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Persona\\Delete.cshtml",
+              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Persona\\Delete.cshtml",
+              "RelativeToolTip": "WebApplicationAPP\\Views\\Persona\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-07T02:41:59.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Persona\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Persona\\Details.cshtml",
+              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Persona\\Details.cshtml",
+              "RelativeToolTip": "WebApplicationAPP\\Views\\Persona\\Details.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwEgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-07T02:36:22.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Persona\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Persona\\Edit.cshtml",
+              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Persona\\Edit.cshtml",
+              "RelativeToolTip": "WebApplicationAPP\\Views\\Persona\\Edit.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwEsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-07T02:29:24.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Calculadora\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Calculadora\\Index.cshtml",
-              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Calculadora\\Index.cshtml",
-              "RelativeToolTip": "WebApplicationAPP\\Views\\Calculadora\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAIBJwBcAAAAzAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Persona\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Persona\\Index.cshtml",
+              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Persona\\Index.cshtml",
+              "RelativeToolTip": "WebApplicationAPP\\Views\\Persona\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-24T01:32:22.24Z",
+              "WhenOpened": "2026-02-07T02:26:15.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CalculadoraViewModel.cs",
-              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Models\\CalculadoraViewModel.cs",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Models\\CalculadoraViewModel.cs",
-              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Models\\CalculadoraViewModel.cs",
-              "RelativeToolTip": "WebApplicationAPP\\Models\\CalculadoraViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "WebApplicationAPP\\Controllers\\PersonaController.cs",
+              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "WebApplicationAPP\\Controllers\\PersonaController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwEUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T01:11:11.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CalculadoraController.cs",
-              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Controllers\\CalculadoraController.cs",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Controllers\\CalculadoraController.cs",
-              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Controllers\\CalculadoraController.cs",
-              "RelativeToolTip": "WebApplicationAPP\\Controllers\\CalculadoraController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T01:08:18.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "WebApplicationAPP\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\Github\\New folder\\PAC12026\\WebApplicationAPP\\WebApplicationAPP\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "WebApplicationAPP\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-24T00:44:59.212Z",
+              "WhenOpened": "2026-02-07T02:25:02.64Z",
               "EditorCaption": ""
             }
           ]
