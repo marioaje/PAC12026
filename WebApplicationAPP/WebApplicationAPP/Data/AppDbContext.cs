@@ -10,6 +10,6 @@ namespace WebApplicationAPP.Data
 
         }
         public DbSet<Persona> Persona { get; set; }
-        //public DbSet<WebApplicationAPP.Models.Producto> Productos { get; set; }
+        
     }
 }
