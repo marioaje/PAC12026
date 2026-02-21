@@ -11,6 +11,6 @@ namespace WebApplicationAPP.Data
         }
         //Model de datos de persona en la tabla de mysql
         public DbSet<Persona> Persona { get; set; }
-        //public DbSet<WebApplicationAPP.Models.Producto> Productos { get; set; }
+        
     }
 }
