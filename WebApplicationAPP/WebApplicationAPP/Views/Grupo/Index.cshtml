@@ -1,0 +1,129 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div>
+
+    <form id="formulariocrear">
+        <div class="mb-3">
+            <label for="" class="form-label">Nombre</label>
+            <input
+                type="text"
+                class="form-control"
+                name="nombre"
+                id="nombre"
+                aria-describedby="helpId"
+                placeholder=""
+                required
+            />
+            <small id="helpId" class="form-text text-muted">Help text</small>
+        </div>
+        <button
+            type="reset"
+            class="btn btn-danger"
+        >
+            Reset
+        </button>
+
+        <button
+            type="submit"
+            class="btn btn-primary"
+        >
+            Crear
+        </button>
+        
+        
+    </form>
+
+
+</div>
+
+
+
+
+
+
+
+<table class="table table-striped">
+    <tr>
+        <th>Id</th>
+        <th>Nombre</th>      
+    </tr>
+
+
+<tbody id="tablaParaDatos">
+
+
+</tbody>
+
+  
+ 
+</table>
+<script>
+
+
+    function cargarDatos(){
+
+        $.ajax({ 
+            type: "POST",
+            url: "https://paginas-web-cr.com/Api/apis/ListaGrupo.php",
+            dataType:"json",
+            success: function(respuesyta){                
+                dibujardatos(respuesyta.data);
+            },
+            error: function(error){
+                alert("Error al cargar datos");
+            }
+        })
+    }
+
+    function dibujardatos(objetodatos){
+                const $tablaParaDatos = $("#tablaParaDatos");
+
+                $tablaParaDatos.empty();
+
+                objetodatos.forEach((item)=>{
+                    let filadatos =`
+                                <tr>
+                                    <td>${item.id}</td>
+                                    <td>${item.nombre}</td>
+                                </tr>`;
+
+                    $tablaParaDatos.append(filadatos);
+                });    
+    }
+
+
+    $(document).ready(function () {
+        cargarDatos();
+
+
+
+
+
+        $("#formulariocrear").submit(function(event){
+            event.preventDefault();//Para detener la recarga de la pagina
+            const datosFormulario = {
+                nombre: $("#nombre").val()
+            };
+            $.ajax({
+                type: "POST",
+                url: "https://paginas-web-cr.com/Api/apis/InsertarGrupo.php",
+                data: JSON.stringify(datosFormulario),
+                dataType: "json",
+                success: function(respuesta){
+                    alert("Grupo creado exitosamente");
+                    cargarDatos();
+                    $("#formulariocrear")[0].reset();
+                },
+                error: function(error){
+                    alert("Error al crear el grupo");
+                }
+            });
+        });
+
+
+    });
+</script>
