@@ -7,6 +7,18 @@
 <div>
 
     <form id="formulariocrear">
+
+        <div class="mb-3">
+            <label for="" class="form-label">Id</label>
+            <input type="text"
+                   class="form-control"
+                   name="idnombre"
+                   id="idnombre"
+                   aria-describedby="helpId"
+                   placeholder=""
+                   required />
+            <small id="helpId" class="form-text text-muted">Help text</small>
+        </div>
         <div class="mb-3">
             <label for="" class="form-label">Nombre</label>
             <input
@@ -89,12 +101,19 @@
                                 <tr>
                                     <td>${item.id}</td>
                                     <td>${item.nombre}</td>
+                                    <td>
+                                        <button class="btn btn-warning" onclick="cargarDatosformulario(10)">Editar</button>
+                                        <button class="btn btn-danger">Eliminar</button>
                                 </tr>`;
 
                     $tablaParaDatos.append(filadatos);
                 });    
     }
 
+    function cargarDatosformulario(id){
+        alert("cargarDatos datos del id: " +id);
+        //logica que cargue los datos append el formulario
+    }
 
     $(document).ready(function () {
         cargarDatos();
