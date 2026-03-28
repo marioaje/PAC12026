@@ -6,7 +6,34 @@
 
 <div>
 
-    <form>
+    <form id="formulariocrear">
+        <div class="mb-3">
+            <label for="" class="form-label">Nombre</label>
+            <input
+                type="text"
+                class="form-control"
+                name="nombre"
+                id="nombre"
+                aria-describedby="helpId"
+                placeholder=""
+                required
+            />
+            <small id="helpId" class="form-text text-muted">Help text</small>
+        </div>
+        <button
+            type="reset"
+            class="btn btn-danger"
+        >
+            Reset
+        </button>
+
+        <button
+            type="submit"
+            class="btn btn-primary"
+        >
+            Crear
+        </button>
+        
         
     </form>
 
@@ -71,5 +98,32 @@
 
     $(document).ready(function () {
         cargarDatos();
+
+
+
+
+
+        $("#formulariocrear").submit(function(event){
+            event.preventDefault();//Para detener la recarga de la pagina
+            const datosFormulario = {
+                nombre: $("#nombre").val()
+            };
+            $.ajax({
+                type: "POST",
+                url: "https://paginas-web-cr.com/Api/apis/InsertarGrupo.php",
+                data: JSON.stringify(datosFormulario),
+                dataType: "json",
+                success: function(respuesta){
+                    alert("Grupo creado exitosamente");
+                    cargarDatos();
+                    $("#formulariocrear")[0].reset();
+                },
+                error: function(error){
+                    alert("Error al crear el grupo");
+                }
+            });
+        });
+
+
     });
 </script>
